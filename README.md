@@ -20,11 +20,11 @@ Installation
 
 # Technology Stack
 
-    ReactJS
-    Three.js
-    AR.js
-    Node.js
-    MongoDB
+    Html
+    Css
+    Js
+    Python
+
 
 # Contributing
 
