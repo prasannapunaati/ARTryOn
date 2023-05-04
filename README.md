@@ -1,7 +1,7 @@
 # ARTryOn
 The E-commerce Website Virtual Try-On Feature is an innovative solution that enables customers to see how products would look on them before making a purchase.
 
-AR Try-On Ecommerce
+# AR Try-On Ecommerce
 
 This project aims to implement an AR Try-On feature for an ecommerce website, allowing customers to virtually try on clothes before making a purchase.
 Installation
@@ -10,7 +10,7 @@ Installation
     Install the necessary dependencies by running npm install.
     Start the server by running npm start.
 
-Usage
+# Usage
 
     Browse the website and select a clothing item.
     Click the "Try-On" button to activate the AR Try-On feature.
@@ -18,7 +18,7 @@ Usage
     Adjust the size and position of the clothing item as needed.
     If satisfied, proceed to make a purchase.
 
-Technology Stack
+# Technology Stack
 
     ReactJS
     Three.js
@@ -26,9 +26,9 @@ Technology Stack
     Node.js
     MongoDB
 
-Contributing
+# Contributing
 
 Contributions to this project are welcome! To contribute, please fork the repository and submit a pull request with your proposed changes.
 License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the GNU License. See the LICENSE file for more information.
